@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 </div>
 
   ![Snake animation](https://github.com/lucasetdasilva/lucasetdasilva/blob/output/github-contribution-grid-snake.svg)
+
+<img src = "git.png" widht = "300" height = "300">
