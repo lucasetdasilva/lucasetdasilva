@@ -24,3 +24,5 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/lucasetdasilva/lucasetdasilva/blob/output/github-contribution-grid-snake.svg)
 
 <img src = "git.png" widht = "300" height = "300">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" widht = "80" height = "80" />
+
