@@ -3,8 +3,8 @@
 
 ## Algumas curiosidades sobre mim:
 
-- 🔭 Atualmente não trabalho, mas procuro oportunidade para minha primeira experiência profissional
-- 💬 Sobre mim: Me chamo Lucas Emanoel, tenho 19 anos e atualmente curso Banco de Dados na Fatec de São José dos Campos
+- 💬 Sobre mim: Me chamo Lucas Emanoel, tenho 20 anos e atualmente curso Banco de Dados na Fatec de São José dos Campos
+- 🔭 Atualmente atualmente trabalho como Testador I na empresa Saipher ATC
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato Interressante: Adoro ensinar o que aprendo para as pessoas, pois só o conhecimento quebra a ignorância
 <br>
